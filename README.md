@@ -1,4 +1,5 @@
 # 
+## Kafka Pub/Sub 기반 코레오그래피와 멱등성 처리를 실습하는 예제 프로젝트
 
 ## Model
 www.msaez.io/#/courses/cna-full/25a51e80-640f-11ef-b6b7-6ff918412057/pubsub-choreography-with-idempotency
